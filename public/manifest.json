@@ -1,6 +1,6 @@
 {
-  "short_name": "Pocket Notes",
-  "name": "Pocket Notes App",
+  "short_name": "Notes App",
+  "name": "Notes App",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
