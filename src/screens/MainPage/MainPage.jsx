@@ -77,7 +77,7 @@ export const MainPage = () => {
   return (
     <div className="main-page">
       <div className="sidebar">
-        <div className="text-wrapper-4">Pocket Notes</div>
+        <div className="text-wrapper-4">Notes app</div>
         <div className="notes-list">
           {groups.map((group) => (
             <NoteGroup
@@ -127,11 +127,11 @@ export const MainPage = () => {
           </>
         ) : (
           <div className="welcome-screen">
-            <div className="text-wrapper">Pocket Notes</div>
+            <div className="text-wrapper">Notes app</div>
             <p className="send-and-receive">
               Send and receive messages without keeping your phone online.
               <br />
-              Use Pocket Notes on up to 4 linked devices and 1 mobile phone
+              Use Notes app on up to 4 linked devices and 1 mobile phone
             </p>
             <div className="text-wrapper-2">
               <img
